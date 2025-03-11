@@ -118,7 +118,6 @@ h2 {
 
     & + .button {
       background-color: var(--text);
-      color: var(--background);
     }
   }
 
@@ -131,6 +130,7 @@ h2 {
 
     & + .button {
       background-color: var(--text);
+      color: var(--background);
     }
   }
 }
